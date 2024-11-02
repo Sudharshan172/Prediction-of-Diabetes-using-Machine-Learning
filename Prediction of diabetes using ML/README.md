@@ -1,0 +1,2 @@
+# Prediction of Diabetes using Machine Learning
+This project aims to predict the diabetes in patients using machine learning algorithms. This comes under classification problem and the algorithms used for training the data are 'naive_bayes', 'RandomForest', 'KNeighbor' and found 'RandomForest' algorithm gives more accuracy and reliability than remaining algorithms. Hence 'RandomForest' algorithm is choosen for training the data.
