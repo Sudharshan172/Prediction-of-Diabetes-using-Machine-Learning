@@ -2,7 +2,7 @@
 <hr>
 In this project, I have developed a machine learning model to predict the diabetes in a patient based on a dataset containing various health parameters such as age, glucose levels, blood pressure, BMI, and insulin levels. The project was implemented using Python and libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn.
 
-Key Steps Involved:
+### Key Steps Involved:
 
 Data Preprocessing: Cleaned the data by handling missing values.
 
@@ -12,6 +12,6 @@ Model Development: Used Scikit-learn to train and evaluate multiple machine lear
 
 Model Evaluation: Assessed the model using metrics like accuracy, precision, recall, and F1 score. Achieved an accuracy of approximately 75% with the Random Forest algorithm.
 
-Outcome:
+### Outcome:
 
 The project successfully demonstrated how machine learning can be applied to healthcare for early detection of diabetes, which can assist in timely treatment and management.
